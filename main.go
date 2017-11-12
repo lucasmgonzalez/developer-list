@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/stone-payments/developer-list/resources"
+	"github.com/lucasmgonzalez/developer-list/resources"
 
 	"github.com/julienschmidt/httprouter"
 )
